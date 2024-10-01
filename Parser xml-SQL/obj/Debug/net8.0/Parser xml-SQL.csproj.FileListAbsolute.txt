@@ -1,0 +1,22 @@
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\Parser xml-SQL.exe
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\Parser xml-SQL.deps.json
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\Parser xml-SQL.runtimeconfig.json
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\Parser xml-SQL.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\Parser xml-SQL.pdb
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.csproj.AssemblyReference.cache
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.AssemblyInfoInputs.cache
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.AssemblyInfo.cs
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.csproj.CoreCompileInputs.cache
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.csproj.CopyComplete
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\refint\Parser xml-SQL.dll
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.pdb
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\Parser xml-SQL.genruntimeconfig.cache
+C:\Users\kasik\source\repos\Parser xml-SQL\obj\Debug\net8.0\ref\Parser xml-SQL.dll

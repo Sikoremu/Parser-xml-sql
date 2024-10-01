@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser xml-SQL", "Parser xml-SQL.csproj", "{28F0713D-7B07-40AA-A528-BF0B7F99E87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F0713D-7B07-40AA-A528-BF0B7F99E87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F0713D-7B07-40AA-A528-BF0B7F99E87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F0713D-7B07-40AA-A528-BF0B7F99E87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F0713D-7B07-40AA-A528-BF0B7F99E87A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D005DE-2954-4A35-8F2A-5BCF27BB3082}
+	EndGlobalSection
+EndGlobal
