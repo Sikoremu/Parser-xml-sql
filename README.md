@@ -6,8 +6,8 @@ Thanks to this, the project meets the assumed goals and delivers valuable busine
 **Changes:**
 1. Due to usage of one data source (SQL Server) by Gambit and ATE/SATE Dashboard, I decided to merge them.
 2. Instead of using a BIs KPI visualisation I decided to create trend arrow which shows us if KPI from previous data range is higher or lower:
-  - **Measure which is calculating previous start data range: PreviousDateRangeStart**
-  - **Measure which is calculating previous end data range: PreviousDateRangeEnd**
-  - **Measure which is calculating previous data range apparent KPI: PreviousApparentFRY**
-  - **Measure which is calculating difference between KPIs: ApparentFRYDifference**
-  - **Measure which is showing KPIs trend indicator: TrendIndicator**
+  - Measure which is calculating previous start data range: PreviousDateRangeStart
+  - Measure which is calculating previous end data range: PreviousDateRangeEnd
+  - Measure which is calculating previous data range apparent KPI: PreviousApparentFRY
+  - Measure which is calculating difference between KPIs: ApparentFRYDifference
+  - Measure which is showing KPIs trend indicator: TrendIndicator
